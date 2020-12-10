@@ -1,0 +1,52 @@
+
+h1{
+    color: green;
+    font-style: italic;
+    font-family: sans-serif;
+text-decoration: black;
+text-transform: uppercase;
+text-shadow: 4px 4px black;
+text-decoration:  2px  underline;
+}
+img{
+    vertical-align: middle;
+    width: 250px;
+}
+#profile{
+    display: inline-block;
+    text-align: center;
+    width: 680px;
+    height: 200px;
+}
+body{
+    
+    background-color: lightblue;
+    color: rgb(8, 6, 1);
+    text-align: center;
+}
+ul{
+    list-style: none ;
+}
+nav :hover{
+    float: bottom center;
+    background: green;
+
+        }
+        .mine {
+
+font-weight: bold;
+color: green;
+        }
+        .slogan{
+            text-decoration: underline;
+            font-style: italic;
+        }
+ 
+   .mine :hover{
+       background: blue;
+       margin-right: 750px;
+       margin-left: 750px;
+       color: red;
+   }
+   
+

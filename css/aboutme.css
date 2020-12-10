@@ -1,0 +1,68 @@
+
+h1{
+    color: green;
+    font-style: italic;
+    font-family: sans-serif;
+text-decoration: black;
+text-transform: uppercase;
+text-shadow: 4px 4px black;
+text-decoration:  2px  underline;
+}
+img{
+    vertical-align: middle;
+    width: 250px;
+}
+#profile{
+    display: inline-block;
+    text-align: center;
+    width: 680px;
+    height: 200px;
+}
+body{
+    
+    background-color: lightblue;
+    color: rgb(8, 6, 1);
+    text-align: center;
+}
+ul{
+    list-style: none ;
+}
+nav :hover{
+    float: bottom center;
+    background: green;
+    box-sizing: 2px solid rgb(10, 192, 10);
+    border: 2px solid rgb(5, 5, 5);
+        }
+   .mine :hover{
+       background: rgb(6, 168, 60);
+       margin-right: 750px;
+       margin-left: 750px;
+       color: rgb(211, 6, 6);
+       font-size: large;
+   }
+   h2{
+       text-shadow: 3px 3px green;
+       text-decoration: underline;
+       text-transform: capitalize;
+   }
+   .abot:hover{
+       font-size: large;
+       color: rgb(3, 143, 66);
+   }
+
+.hobby{
+    list-style: none;
+}
+
+
+
+   .conta{
+       background-color: white;
+       margin-left: 750px;
+       margin-right: 700px;
+   }
+   .paragraph{
+       font-style: italic;
+       font-weight: bold;
+          }
+

@@ -1,0 +1,39 @@
+h2{
+    text-transform: capitalize;
+         }
+         a:hover {
+            background-color: green;
+                } 
+                span {
+                    background-color:green;
+                    color:blue
+                }
+                img{
+                      width: 200px;
+                  }
+                  body{
+                      background-color: lightblue;
+                    }
+                  .find{
+                      text-transform: capitalize;
+                      text-decoration: underline;
+                      text-shadow:1px 1px blue;
+                  }
+                  .contacts {
+                      background-color: white;
+                      margin-right: 1470px;
+                      font-weight: bold;
+                  }
+                  nav >ul >li{
+                    background-color: rgb(165, 173, 177);
+                    border: 2px solid green;
+                    height: 10px;
+                    line-height: 10px;
+                    text-align: center;                    
+                    margin-right: 810px;
+                    margin-left: 800px;
+                    font-size: 20px;
+                    padding: 15px;
+                    box-sizing: 2px solid black;
+                    margin-top: 5px;
+                    }
